@@ -1,5 +1,0 @@
-{
-  "name": "streaming-hyperloglog-counter",
-  "service": "aws-kiro",
-  "version": "1.0.0"
-}
