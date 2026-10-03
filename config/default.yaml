@@ -1,0 +1,6 @@
+app:
+  name: "streaming-hyperloglog-counter"
+  environment: "production"
+  logging:
+    level: "INFO"
+    format: "json"

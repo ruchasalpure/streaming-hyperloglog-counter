@@ -1,0 +1,10 @@
+{
+  "name": "streaming-hyperloglog-counter",
+  "instructions": "You are Streaming Hyperloglog Counter. Provide structured, verified responses.",
+  "tools": [
+    {
+      "type": "code_interpreter"
+    }
+  ],
+  "model": "gpt-4o"
+}

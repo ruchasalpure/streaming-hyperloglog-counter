@@ -1,0 +1,8 @@
+{
+  "agent_id": "streaming-hyperloglog-counter",
+  "protocol": "opencode/v1",
+  "capabilities": [
+    "autonomous",
+    "governed"
+  ]
+}
